@@ -5,7 +5,7 @@
     public abstract class GenericRepository<T> : IGenericRepository<T> where T : class
     {
         protected GenericRepository(DatabaseContext context) => Context = context;
-        private DatabaseContext Context { get; }
+        public DatabaseContext Context { get; }
 
         public void Dispose() => Context?.Dispose();
 
