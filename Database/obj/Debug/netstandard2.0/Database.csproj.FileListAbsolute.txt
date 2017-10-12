@@ -1,0 +1,6 @@
+C:\Users\kjaehnke\projects\KJaenke\MyArchiv\Database\bin\Debug\netstandard2.0\Database.deps.json
+C:\Users\kjaehnke\projects\KJaenke\MyArchiv\Database\bin\Debug\netstandard2.0\Database.dll
+C:\Users\kjaehnke\projects\KJaenke\MyArchiv\Database\obj\Debug\netstandard2.0\Database.csprojResolveAssemblyReference.cache
+C:\Users\kjaehnke\projects\KJaenke\MyArchiv\Database\obj\Debug\netstandard2.0\Database.csproj.CoreCompileInputs.cache
+C:\Users\kjaehnke\projects\KJaenke\MyArchiv\Database\obj\Debug\netstandard2.0\Database.AssemblyInfoInputs.cache
+C:\Users\kjaehnke\projects\KJaenke\MyArchiv\Database\obj\Debug\netstandard2.0\Database.AssemblyInfo.cs
